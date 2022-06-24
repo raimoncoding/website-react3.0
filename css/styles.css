@@ -409,26 +409,22 @@ a {
 }
 
 .website {
-    height: 400px;
-    width: 700px;
+    height: 200px;
+    width: 300px;
     border-radius: 5%;
     box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.2);
-    margin-left: 30px;
     margin-bottom: 50px;
     object-fit: cover;
-    max-width: 500px;
     margin: auto;
 }
 
 .printer {
-    height: 500px;
-    width: 400px;
+    height: 400px;
+    width: 300px;
     border-radius: 5%;
     box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.2);
-    margin-left: 30px;
     margin-bottom: 50px;
     object-fit: cover;
-    max-width: 500px;
     margin: auto;
 }
 
