@@ -39,6 +39,7 @@ body {
 
 .body2 {
   background: #ffffff;
+  margin-top: 30px;
 }
 
 h1 {
@@ -78,7 +79,7 @@ p {
 .nav-item {
   padding: 0 18px;
   text-align: right;
-  margin: 5% 5% 5%;
+  margin: 2% 1% 7%;
 }
 
 .nav-link {
@@ -408,23 +409,27 @@ a {
 }
 
 .website {
-  height: 200px;
-  width: 300px;
-  border-radius: 5%;
-  box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.2);
-  object-fit: cover;
-  max-height: auto;
-  margin-bottom: 30px;
+    height: 400px;
+    width: 700px;
+    border-radius: 5%;
+    box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.2);
+    margin-left: 30px;
+    margin-bottom: 50px;
+    object-fit: cover;
+    max-width: 500px;
+    margin: auto;
 }
 
 .printer {
-    height: 400px;
-    width: 300px;
+    height: 500px;
+    width: 400px;
     border-radius: 5%;
     box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.2);
+    margin-left: 30px;
+    margin-bottom: 50px;
     object-fit: cover;
-    max-height: auto;
-    margin-bottom: 30px;
+    max-width: 500px;
+    margin: auto;
 }
 
 .raimon {
