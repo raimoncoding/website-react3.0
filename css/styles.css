@@ -34,7 +34,7 @@ body {
   background: linear-gradient(to bottom right, #FFF7BC, #F9F9F9);
   font-weight: bold;
   font-family: 'Josefin Slab', serif;
-  /* content: center; */
+  width: 100%;
 }
 
 .body2 {
@@ -355,9 +355,10 @@ a {
   /* Heading */
 
 .header {
-    max-width: 100%;
-    margin: 30px 30px 30px 30px;
-}
+      max-width: 100%;
+      margin: 30px 30px 30px 30px;
+  }
+
 
 
 
