@@ -356,24 +356,23 @@ a {
   /* Heading */
 
 .header {
-    max-width: 100%;
-    margin: 30px 30px 30px 30px;
-    object-position: center;
+      max-width: 100%;
+      margin: 30px 30px 30px 30px;
+      object-position: center;
 }
-
-
-
 
   /* Middle-Sections */
 
 .middle-container {
-    max-width: 100%;
-    margin: 30px 30px 30px 30px;
-}
+      max-width: 100%;
+      margin: 30px 30px 30px 30px;
+      object-position: center;
+  }
 
 .middle-container2 {
     max-width: 100%;
     margin: 30px 30px 30px 30px;
+
 }
 
   /* Images */
@@ -415,7 +414,6 @@ a {
     border-radius: 5%;
     box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.2);
     margin-bottom: 50px;
-    margin-right: 30px;
     object-fit: cover;
 }
 
@@ -425,7 +423,6 @@ a {
     border-radius: 5%;
     box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.2);
     margin-bottom: 50px;
-    margin-right: 30px;
     object-fit: cover;
 }
 
