@@ -412,7 +412,6 @@ a {
   width: 300px;
   border-radius: 5%;
   box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.2);
-  object-fit: cover;
   max-height: auto;
   margin-left: none;
   margin-bottom: 30px;
@@ -423,7 +422,6 @@ a {
     width: 300px;
     border-radius: 5%;
     box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.2);
-    object-fit: cover;
     max-height: auto;
     margin-left: none;
     margin-bottom: 30px;
