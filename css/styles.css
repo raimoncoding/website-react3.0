@@ -415,7 +415,6 @@ a {
     box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.2);
     margin-bottom: 50px;
     object-fit: cover;
-    margin: auto;
 }
 
 .printer {
@@ -425,7 +424,6 @@ a {
     box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.2);
     margin-bottom: 50px;
     object-fit: cover;
-    margin: auto;
 }
 
 .raimon {
